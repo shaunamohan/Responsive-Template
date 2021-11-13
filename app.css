@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ul > li > a {
+    color: grey;
+    text-decoration: none;
+}
+
+p > a {
+    color: grey;
+    text-decoration: none;
+}
+
+h6 {
+    color: grey;
+}
+
+body {
+    background-color: white;
+}
+
